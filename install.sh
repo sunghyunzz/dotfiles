@@ -8,6 +8,5 @@ source .macos
 source brew.sh
 source zsh.sh
 source vim.sh
-source asdf.sh
 source git.sh
 source gpg.sh
